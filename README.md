@@ -1,3 +1,3 @@
 # Basic Banking System
-This project is the first task of tasks [(https://www.thesparksfoundationsingapore.org/)] Internship.
+This project is the first task of tasks [The Sparks Foundation Internship](https://www.thesparksfoundationsingapore.org/).
 The theme of this project is to create a simple dynamic "Banking System". 
