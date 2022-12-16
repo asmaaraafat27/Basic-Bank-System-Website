@@ -17,4 +17,4 @@ project consists of four pages:
 4. History Page -> Display the updated balance of customer after transferring.
 
 ### Screenshots:
-![HomePage](http://![homepage](https://user-images.githubusercontent.com/89736386/208202699-058df2ea-bcfa-42f6-8e8c-4547dc7ce005.jpg)/homepage.png)
+![HomePage](http://![homepage](https://user-images.githubusercontent.com/89736386/208202699-058df2ea-bcfa-42f6-8e8c-4547dc7ce005.jpg))
