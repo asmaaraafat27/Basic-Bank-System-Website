@@ -3,7 +3,7 @@ This project is the first task of tasks [The Sparks Foundation Internship](https
 The theme of this project is to create a simple dynamic "Banking System". 
 ### Table Content:
 - [Overview](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#overview)
-   - Screenshots
+   - [Screenshots] (https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#screenshots)
    - Technology used
 - Find me
 
