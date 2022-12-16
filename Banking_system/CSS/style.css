@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+body{
+    font-family: sans-serif;
+}
+/* start navbar */
+#nav-bar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar #navbarNav{
+    background-image: linear-gradient(to right);
+    padding: 0;
+}
+.navbar .nav-item{
+    padding: -0px 10px;
+}
+.navbar .nav-item a{
+    font-weight: 650;
+    text-align: left;
+}
+.navbar span{
+    font-weight:600; 
+    color:#474646;
+    text-transform: uppercase;
+}
+/* end navbar*/
+
+/* start Body */
+.home {
+    padding: 0;
+}
+.home .landing {
+    background-repeat: no-repeat;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover !important;
+    background-position: center !important;
+    min-height: 82.8vh;
+}
+.home .landing .content {
+    width: 85rem;
+    text-align: center;
+    display: inline-block;
+}
+.home .landing .content span {
+    font-size: 2.2rem;
+    display: block;
+    padding-bottom: 29rem;
+    color:#474646;
+}
+/* end body */
+
+/*--- Start Customer Section ---*/
+table{
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    padding: 1rem;
+    width:60%;
+    text-align: center;
+    font-size: medium;
+}
+th{
+    background-color: rgb(229, 214, 193);
+    font-size: medium;
+    padding: 1rem;
+    width:5%;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+td{
+    font-size: medium;
+    padding: 1rem;
+    width:5%;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.customers .heading-title{
+    font-size: 1.5rem;
+    display: block;
+    color:#474646;
+    padding: 20px;
+    margin-left: 140px;
+}
+.customers .customers-table tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+/* end customers section */
+
+/* start footer */
+.footer {
+    background-color:#474646;
+    padding: 1.4rem 10%;
+    text-align: center;
+}
+.footer .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(25rem , 1fr));
+    gap: 3rem;
+}
+.footer .box-container .box span{
+    color: var(--white);
+    font-size: 1.1rem;
+    display: block;
+}
+.footer .box-container .box span a {
+    color: var(--black);
+}
+/* end footer */

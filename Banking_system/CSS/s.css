@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+body{
+    font-family: sans-serif;
+}
+/* start navbar */
+#nav-bar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar #navbarNav{
+    background-image: linear-gradient(to right);
+    padding: 0;
+}
+.navbar .nav-item{
+    padding: -0px 10px;
+}
+.navbar .nav-item a{
+    font-weight: 650;
+    text-align: left;
+}
+.navbar span{
+    font-weight:600; 
+    color:#474646;
+    text-transform: uppercase;
+}
+/* end navbar*/
+
+table, th, td{
+    border: 2px solid white;
+    margin-left: 28%;
+    margin-right: auto;
+    background-color: rgb(229, 214, 193);
+    color:black;
+    padding: 0.3rem;
+    width:40%;
+    font-size:medium;
+    text-align: center;
+}
+.select-section .heading-title{
+    font-size: 1.5rem;
+    display: block;
+    color:#474646;
+    padding: 10px;
+    width:61%;
+    margin-left: auto;
+}
+.select-form{
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    width:100%;
+    margin-left: auto;
+}
+.customers-hight .customers-ta tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+.button {
+    background-color:rgb(229, 214, 193);;
+    width: 100px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 12px;
+    border: 2px solid white;
+    font-size: 2px;
+}
+
+.transfer .heading-title{
+    font-size: 1.5rem;
+    display: block;
+    color:#474646;
+    padding: 10px;
+    width:61%;
+    margin-left: auto; 
+    margin-top: 50px; 
+    margin-bottom: auto;
+}
+.from , .to , .amount{
+    font-size: 1.2rem;
+    display: block;
+    color:#474646;
+    padding: 5px;
+    width:61%;
+    margin-left: 15%; 
+    margin-top: 30px;
+    text-align: center;
+}
+#form , #to , #amount{
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    width:40%;
+    margin-left: 25%;
+    text-align: center;
+}
+.btnholder {
+    background-color: rgb(229, 214, 193);
+    width: 100px;
+    margin-left: 435px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 12px;
+    border: 2px solid white;
+    font-size: 10px;
+}
