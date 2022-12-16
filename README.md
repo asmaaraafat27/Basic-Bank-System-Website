@@ -35,5 +35,5 @@ project consists of four pages:
 - PHP
 - MySQL
 
-### Find ME:
+### Find Me:
 - [LinkedIn](https://www.linkedin.com/in/asmaaraafat/)
