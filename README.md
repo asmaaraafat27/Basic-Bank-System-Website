@@ -8,4 +8,10 @@ The theme of this project is to create a simple dynamic "Banking System".
 - Find me
 
 ### Overview:
-
+project consists of four pages:
+1. HomePage -> Contains what the project is for.
+2. Customers Page -> Shows all customers that alreading have an account with this bank.
+3. Transfer Money Page -> That contains:
+    - Select and view one customers.
+    - Transfer money by selecting customers to transfer to.
+4. History Page -> Display the updated balance of customer after transferring.
