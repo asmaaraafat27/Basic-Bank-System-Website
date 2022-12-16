@@ -15,3 +15,5 @@ project consists of four pages:
     - Select and view one customers.
     - Transfer money by selecting customers to transfer to.
 4. History Page -> Display the updated balance of customer after transferring.
+
+### Screenshots:
