@@ -4,7 +4,7 @@ The theme of this project is to create a simple dynamic "Banking System".
 ### Table Content:
 - [Overview](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#overview)
    - [Screenshots](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#screenshots)
-   - [Technology's used](https://github.com/asmaaraafat27/Basic-Banking-System#technology-used)
+   - [Technology's used](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#technologys-used)
 - [Find me](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#find-me)
 
 ### Overview:
