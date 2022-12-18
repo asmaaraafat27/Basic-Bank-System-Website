@@ -24,12 +24,11 @@ project consists of four pages:
 
 ![customers](https://user-images.githubusercontent.com/89736386/208203114-0b392998-7b5c-4bce-a61a-ce114bcf1e8e.jpg)
 
-![select](https://user-images.githubusercontent.com/89736386/208203128-526aa45e-1768-4e4e-82a1-9d0fd36c2f44.jpg)
+![select](https://user-images.githubusercontent.com/89736386/208326086-8401b59d-8b78-4fea-a960-591569f2440d.jpg)
 
-![transfer](https://user-images.githubusercontent.com/89736386/208203167-2900e7bc-8e7d-427a-811a-dd98790292dd.jpg)
+![trans](https://user-images.githubusercontent.com/89736386/208326098-5bcc87d1-4d5d-4466-ab18-5b3095c0a8bb.jpg)
 
-![history](https://user-images.githubusercontent.com/89736386/208203192-40c0e6fe-1156-4ffd-98b9-c329b09a90a7.jpg)
-
+![hist](https://user-images.githubusercontent.com/89736386/208326110-a7e8f2f0-abb0-4ba0-ba28-1a62199a0b85.jpg)
 
 ### Technology's Used:
 - HTML
