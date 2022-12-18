@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+body{
+    font-family: sans-serif;
+}
+/* start navbar */
+#nav-bar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar #navbarNav{
+    background-image: linear-gradient(to right);
+    padding: 0;
+}
+.navbar .nav-item{
+    padding: -0px 10px;
+}
+.navbar .nav-item a{
+    font-weight: 650;
+    text-align: left;
+}
+.navbar span{
+    font-weight:600; 
+    color:#474646;
+    text-transform: uppercase;
+}
+/* end navbar*/
+
+table{
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    padding: 1rem;
+    width:60%;
+    text-align: center;
+    font-size: medium;
+}
+th{
+    background-color: rgb(229, 214, 193);
+    font-size: medium;
+    padding: 1rem;
+    width:5%;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+td{
+    font-size: medium;
+    padding: 1rem;
+    width:5%;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.transfer-hist .heading-title{
+    font-size: 1.5rem;
+    display: block;
+    color:#474646;
+    padding: 50px;
+    width:61%;
+    margin-left: auto;
+}
+.transfer-hist .transfer-table tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
