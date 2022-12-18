@@ -8,7 +8,7 @@ The theme of this project is to create a simple dynamic "Banking System".
 - [Find me](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#find-me)
 
 ### Overview:
-project consists of four pages:
+Project consists of four pages:
 1. HomePage -> Contains what the project is for.
 
 2. Customers Page -> Shows all customers that alreading have an account with this bank.
