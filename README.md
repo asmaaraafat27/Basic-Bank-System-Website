@@ -19,6 +19,9 @@ Project consists of four pages:
 
 4. History Page -> Display the updated balance of customer after transferring.
 
+-Flow: home page > view all customers > select and view one customer > transfer money > select customer to transfer to > view all customers.
+-No login page, No user creation, Only transfer money between multiple users.
+
 ### Screenshots:
 ![homepage](https://user-images.githubusercontent.com/89736386/208203087-41300538-4126-4124-9f5f-d8ad49a65711.jpg)
 
