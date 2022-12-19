@@ -33,7 +33,7 @@ The theme of this project is to create a simple dynamic "Banking System".
 
 ![hist](https://user-images.githubusercontent.com/89736386/208326110-a7e8f2f0-abb0-4ba0-ba28-1a62199a0b85.jpg)
 
-### Technology's Used:
+### Technologies Used:
 - HTML
 - CSS
 - Bootstrap
