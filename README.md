@@ -17,7 +17,7 @@ The theme of this project is to create a simple dynamic "Banking System".
          - Select and view one customers.
          - Transfer money by selecting customers to transfer to.
 
-4. History Page -> Display the updated balance of customer after transferring.
+     4. History Page -> Display the updated balance of customer after transferring.
 
 - Flow: home page > view all customers > select and view one customer > transfer money > select customer to transfer to > view all customers.
 - No login page, No user creation, Only transfer money between multiple users.
