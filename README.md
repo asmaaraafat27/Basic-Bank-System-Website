@@ -1,7 +1,7 @@
 # Basic Banking System :bank:
 This project is the first task of [The Sparks Foundation Internship](https://www.thesparksfoundationsingapore.org/) tasks.
 The theme of this project is to create a simple dynamic "Banking System". 
-### Table Content:
+### Table of Content:
 - [Overview](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#overview)
    - [Screenshots](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#screenshots)
    - [Technology's used](https://github.com/asmaaraafat27/Basic-Banking-System/blob/main/README.md#technologys-used)
@@ -11,10 +11,10 @@ The theme of this project is to create a simple dynamic "Banking System".
 - Project consists of four pages:
      1. HomePage -> Contains what the project is for.
 
-     2. Customers Page -> Shows all customers that alreading have an account with this bank.
+     2. Customers Page -> Shows all customers that already have an account with this bank.
 
      3. Transfer Money Page -> That contains:
-         - Select and view one customers.
+         - Select and view one customer.
          - Transfer money by selecting customers to transfer to.
 
      4. History Page -> Display the updated balance of customer after transferring.
