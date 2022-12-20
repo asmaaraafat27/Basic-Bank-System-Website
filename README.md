@@ -27,9 +27,9 @@ The theme of this project is to create a simple dynamic "Banking System".
 
 ![customers](https://user-images.githubusercontent.com/89736386/208203114-0b392998-7b5c-4bce-a61a-ce114bcf1e8e.jpg)
 
-![select](https://user-images.githubusercontent.com/89736386/208326086-8401b59d-8b78-4fea-a960-591569f2440d.jpg)
+![choose](https://user-images.githubusercontent.com/89736386/208754555-096f61a5-0507-446c-9391-1882d0e45302.jpg)
 
-![trans](https://user-images.githubusercontent.com/89736386/208326098-5bcc87d1-4d5d-4466-ab18-5b3095c0a8bb.jpg)
+![transs](https://user-images.githubusercontent.com/89736386/208754653-23b6ea9c-d352-4e3a-af7c-8355428793c8.jpg)
 
 ![hist](https://user-images.githubusercontent.com/89736386/208326110-a7e8f2f0-abb0-4ba0-ba28-1a62199a0b85.jpg)
 
